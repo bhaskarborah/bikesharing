@@ -14,7 +14,9 @@ The required input data is available in a Comma Separated Values (CSV) file.
 The purpose of this project is to provide the below deliverables:
 
 Deliverable 1: Change Trip Duration to a Date time Format
+
 Deliverable 2: Create Visualizations for the Trip Analysis
+
 Deliverable 3: Create a Story and Report for the Final Presentation
 
 ## Results
