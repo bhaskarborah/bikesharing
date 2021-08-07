@@ -102,7 +102,7 @@ The story/dashboard for bike sharing is as follows:
 
 # Bike-Sharing-Summary
 
-The analysis has been conducted on the data the month of August for the city on New York.
+The analysis has been conducted on the data for the month of August for the city of New York.
 The analysis show that Citi Bike share is a very popular bike sharing service in New York, and a lot of people use this service to move around the city. The most popular area for using this service is Manhattan. 
 Most of the customers/users are male, and they use the service in hours and days which show/indicate that they are using this service for their commute from home to work.
 Many of the users are monthly subscribers rather than occasional users, which further indicate that they use bikes regularly for travel in their daily lives.
